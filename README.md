@@ -5,13 +5,17 @@ cfm-user-stories
   - I want to
     - And the outcome is?
 
-- User
-  - See all the talks on the schedule	
+- Attendee
+  - See all the talks on the schedule
     - I see a high level tabular style data of all the talks
   - See all the talks for a particular room
     - I see a high level tabular style data of all the talks for a particular room
   - Find out what a talk is about
     - I see a view of a talk including the speaker and description
+  - See the talks on "Now" and "Next"
+    - I see a page showing what's on now and next
+
+- User
   - Attend a talk
     - User marked as attending talk, added to their timeline
   - See what talks I'm signed up for
